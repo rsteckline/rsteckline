@@ -6,11 +6,22 @@
 ### *👋 Hey there! I'm Bobby, a Front-End Software Engineer with 15 years of experience in hospitality management as an executive pastry chef.*
 
 <b><i>With an affinity for creative problem-solving and a commitment to accessible design, I'm using technologies like React, JavaScript, CSS, and HTML to create positive change through technology. I'm excited to join a team that values collaboration and communication to create amazing experiences together!</b></i>
-<br><br></div>
-- I'm currently learning NestJS & PostgreSQL with TypeORM, and working on the front end of <a href="https://laboulangerie.vercel.app/">Belongea's Boulangerie</a> 🧑‍💻
-
-- Besides coding, I love outdoor hikes or rides, flipping through records, or satiating my sweet tooth 🍬
 <br><br>
+
+### Let's Connect! 
+</div>
+<div id="badges" align="center">
+   <a href="https://calendly.com/rsteckline/60min">
+<img width="30" alt="Calendly Link" src="https://github.com/rsteckline/rsteckline/assets/135551833/5218851b-da1f-437f-ac47-870889ff9422"></a>
+	<a href="mailto:r.steckline@gmail.com">
+	  <img src="https://img.shields.io/badge/Gmail-664B7D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+	<a href="https://www.linkedin.com/in/rsteckline/">
+	   <img src="https://img.shields.io/badge/LinkedIn-664B7D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <br>
+  <a href="https://www.heeeeeeeey.com/">
+		<img src="https://img.shields.io/badge/portfolio%20(coming%20soon)-664B7D?style=for-the-badge&logoColor=white" alt="Bobby Steckline's Portfolio"/></a>
+<br><br><br>
+</div>
 
 <details align="center"><summary><b>💻 My Tools & Technologies</b></summary>
 
@@ -43,19 +54,4 @@
 </div>
 <div align="center"> 
 	
-### Let's Connect! 
-
-</div>
-<div id="badges" align="center">
-   <a href="https://calendly.com/rsteckline/30min">
-<img width="30" alt="Calendly Link" src="https://github.com/rsteckline/rsteckline/assets/135551833/5218851b-da1f-437f-ac47-870889ff9422"></a>
-	<a href="mailto:r.steckline@gmail.com">
-	  <img src="https://img.shields.io/badge/Gmail-664B7D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-	<a href="https://www.linkedin.com/in/rsteckline/">
-	   <img src="https://img.shields.io/badge/LinkedIn-664B7D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <br>
-  <a href="https://www.heeeeeeeey.com/">
-		<img src="https://img.shields.io/badge/portfolio%20(coming%20soon)-664B7D?style=for-the-badge&logoColor=white" alt="Bobby Steckline's Portfolio"/></a>
-<br><br><br>
-</div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=rsteckline&theme=cobalt&layout=compact&show_icons=true" alt="Bobby's GitHub stats"/> -->
