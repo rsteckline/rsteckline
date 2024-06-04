@@ -11,7 +11,7 @@
 ### Let's Connect! 
 </div>
 <div id="badges" align="center">
-   <a href="https://calendly.com/rsteckline/60min">
+   <a href="https://calendly.com/rsteckline/30min">
 <img width="30" alt="Calendly Link" src="https://github.com/rsteckline/rsteckline/assets/135551833/5218851b-da1f-437f-ac47-870889ff9422"></a>
 	<a href="mailto:r.steckline@gmail.com">
 	  <img src="https://img.shields.io/badge/Gmail-664B7D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
