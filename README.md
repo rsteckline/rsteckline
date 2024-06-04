@@ -1,7 +1,4 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/rsteckline/">
-  <img src="https://github.com/rsteckline/rsteckline/assets/135551833/17177c7a-c966-444f-ad3f-bd54dbd0fe5e" width="750"></a>
-<br>
 
 ### *👋 Hey there! I'm Bobby, a Front-End Software Engineer with 15 years of experience in hospitality management as an executive pastry chef.*
 
