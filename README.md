@@ -1,23 +1,23 @@
 <div id="header" align="center">
 
-### *👋 Hey there! I'm Bobby, a Front-End Software Engineer with 15 years of experience in hospitality management as an executive pastry chef.*
+### Bobby Steckline ◦ Software Engineer
 
-<b><i>With an affinity for creative problem-solving and a commitment to accessible design, I'm using technologies like React, JavaScript, CSS, and HTML to create positive change through technology. I'm excited to join a team that values collaboration and communication to create amazing experiences together!</b></i>
-<br><br>
+<b>As a software engineer, I apply the skills I honed during my decade-long career as an executive pastry chef, utilizing technologies like React, JavaScript, CSS, and HTML to create positive change through technology. I am excited to join a team that values collaboration and communication to cultivate amazing experiences together.</b>
+<br>
 
 ### Let's Connect! 
 </div>
 <div id="badges" align="center">
-   <a href="https://calendly.com/rsteckline/30min">
-<img width="30" alt="Calendly Link" src="https://github.com/rsteckline/rsteckline/assets/135551833/5218851b-da1f-437f-ac47-870889ff9422"></a>
+	<a href="https://www.bobbysteckline.com/">
+	<img src="https://img.shields.io/badge/portfolio-664B7D?style=for-the-badge&logoColor=white" alt="Bobby Steckline's Portfolio"/></a>
+	<br>
 	<a href="mailto:r.steckline@gmail.com">
-	  <img src="https://img.shields.io/badge/Gmail-664B7D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+	<img src="https://img.shields.io/badge/Gmail-664B7D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+	<a href="https://calendly.com/rsteckline/30min">
+<img width="30" alt="Calendly Link" src="https://github.com/rsteckline/rsteckline/assets/135551833/5218851b-da1f-437f-ac47-870889ff9422"></a>
 	<a href="https://www.linkedin.com/in/rsteckline/">
-	   <img src="https://img.shields.io/badge/LinkedIn-664B7D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <br>
-  <a href="https://www.heeeeeeeey.com/">
-		<img src="https://img.shields.io/badge/portfolio%20(coming%20soon)-664B7D?style=for-the-badge&logoColor=white" alt="Bobby Steckline's Portfolio"/></a>
-<br><br><br>
+	<img src="https://img.shields.io/badge/LinkedIn-664B7D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<br><br>
 </div>
 
 <details align="center"><summary><b>💻 My Tools & Technologies</b></summary>
@@ -26,7 +26,8 @@
   
 ### Languages
 
-<img src="https://img.shields.io/badge/JavaScript-664B7D?style=for-the-badge&logo=javascript&logoColor=D2F5F9" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/HTML5-664B7D?style=for-the-badge&logo=HTML5&logoColor=D2F5F9" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-664B7D?style=for-the-badge&logo=javascript&logoColor=D2F5F9" alt="JavaScript Badge"/> 
+<img src="https://img.shields.io/badge/HTML5-664B7D?style=for-the-badge&logo=HTML5&logoColor=D2F5F9" alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/CSS3-664B7D?style=for-the-badge&logo=CSS3&logoColor=D2F5F9" alt="CSS3 Badge"/>
 <img src="https://img.shields.io/badge/TypeScript-664B7D?style=for-the-badge&logo=typescript&logoColor=D2F5F9" alt="TypeScript Badge"/>
 
