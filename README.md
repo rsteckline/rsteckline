@@ -66,7 +66,6 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=538DD7&logo=Font+Awesome&logoColor=FFFFFF&label=" alt="Font Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=BigCommerce&color=121118&logo=BigCommerce&logoColor=FFFFFF&label=" alt="BigCommerce Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GoDaddy&color=222222&logo=GoDaddy&logoColor=1BDBDB&label=" alt="GoDaddy Badge"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Squarespace&color=000000&logo=Squarespace&logoColor=FFFFFF&label=" alt="Squarespace Badge"/>
 
 ### Other Tools
 
@@ -88,6 +87,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jellyfin&color=00A4DC&logo=Jellyfin&logoColor=FFFFFF&label=" alt="Jellyfin Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=qbit&color=2F67BA&logo=qbittorrent&logoColor=FFFFFF&label=" alt="qbittorrent Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label=" alt="Oculus Badge"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=RetroArch&color=000000&logo=RetroArch&logoColor=FFFFFF&label=" alt="RetroArch Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Podcasts&color=F4842D&logo=Podcast+Addict&logoColor=FFFFFF&label=" alt="Podcasts Badge"/>
 
 </details>
