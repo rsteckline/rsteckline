@@ -26,7 +26,7 @@
 
 ### Currently Learning
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=" alt="Shopify Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GIS&color=396CB2&logo=MapLibre&logoColor=FFFFFF&label=" alt="Map Badge"/>
   
