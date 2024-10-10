@@ -2,7 +2,7 @@
 
 ### Bobby Steckline ◦ Software Engineer
 
-<b>As a software engineer, I apply the skills I honed during my decade-long career as an executive pastry chef, utilizing technologies like React, JavaScript, CSS, and HTML to create positive change through technology. I am excited to join a team that values collaboration and communication to cultivate amazing experiences together.</b>
+<b>As a software engineer, I apply the skills I honed during my decade-long career as a culinary operations manager, utilizing technologies like React, JavaScript, CSS, and HTML to create positive change through technology. I am excited to join a team that values collaboration and communication to cultivate amazing experiences together.</b>
 <br>
 
 ### Let's Connect! 
