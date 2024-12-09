@@ -13,6 +13,8 @@
 	<br>
 	<a href="https://calendly.com/rsteckline/30min">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Calendly&color=006BFF&logo=Calendly&logoColor=FFFFFF&label=" alt="Calendly Badge"/></a>
+	<a href="https://gitlab.com/rsteckline">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=" alt="GitLab Badge"/></a>
 	<a href="https://www.linkedin.com/in/rsteckline/">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/></a>
 <br><br>
@@ -26,7 +28,6 @@
 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Local&color=222222&logo=Local&logoColor=51BB7B&label=" alt="Local Badge"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label" alt="GitLab Badge"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=_tw&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" alt="_tw (Underscore Tailwind) Badge"/>
 <br>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=" alt="Alpine.js Badge"/>
