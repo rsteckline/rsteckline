@@ -9,7 +9,7 @@
 </div>
 <div id="badges" align="center">
 	<a href="https://www.bobbysteckline.com/">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=My Portfolio&color=19414E&logo=Brenntag&logoColor=FFFFFF&label=" alt="Bobby Steckline's Portfolio using the Backstage Badge"/></a>
+	<img src="https://img.shields.io/badge/My%20Portfolio-19414E?style=for-the-badge&logo=Brenntag&logoColor=FFFFFF" alt="Bobby Steckline's Portfolio using the Backstage Badge"/></a>
 	<br>
 	<a href="https://calendly.com/rsteckline/30min">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Calendly&color=006BFF&logo=Calendly&logoColor=FFFFFF&label=" alt="Calendly Badge"/></a>
